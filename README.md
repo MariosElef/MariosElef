@@ -25,10 +25,12 @@ Your friendly neighbourhood backend developer. 🕷️
 [![SQLx](https://img.shields.io/badge/SQLx-CF4500?style=flat-square&logoColor=white)](https://docs.rs/sqlx)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy_Core-9B1A1A?style=flat-square&logoColor=white)](https://docs.sqlalchemy.org)
 
-**Frontend:**
+**Frontend** *(yes, JS lives here and only here)*:
 
 [![Nuxt](https://img.shields.io/badge/Nuxt-00C16A?style=flat-square&logo=nuxtdotjs&logoColor=002B18)](https://nuxt.com/docs)
 [![Vue](https://img.shields.io/badge/Vue.js-41B883?style=flat-square&logo=vuedotjs&logoColor=213547)](https://vuejs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 **Infrastructure:**
 
