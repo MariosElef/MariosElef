@@ -23,9 +23,11 @@ Your friendly neighbourhood backend developer. 🕷️
 **Data access** *(raw drivers, no ORMs)*:
 
 [![SQLx](https://img.shields.io/badge/SQLx-CF4500?style=flat-square&logo=rust&logoColor=white)](https://docs.rs/sqlx)
+[![mongodb-rs](https://img.shields.io/badge/mongodb--rs-116149?style=flat-square&logo=mongodb&logoColor=white)](https://docs.rs/mongodb)
+[![redis-rs](https://img.shields.io/badge/redis--rs-A41E11?style=flat-square&logo=redis&logoColor=white)](https://docs.rs/redis)
 [![asyncpg](https://img.shields.io/badge/asyncpg-1F4E79?style=flat-square&logo=postgresql&logoColor=white)](https://magicstack.github.io/asyncpg)
-[![redis-py](https://img.shields.io/badge/redis--py-8B1E1E?style=flat-square&logo=redis&logoColor=white)](https://redis.readthedocs.io)
 [![PyMongo](https://img.shields.io/badge/PyMongo-0B6E3A?style=flat-square&logo=mongodb&logoColor=white)](https://pymongo.readthedocs.io)
+[![redis-py](https://img.shields.io/badge/redis--py-8B1E1E?style=flat-square&logo=redis&logoColor=white)](https://redis.readthedocs.io)
 
 **Frontend** *(yes, JS lives here and only here)*:
 
