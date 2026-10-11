@@ -13,7 +13,6 @@ Your friendly neighbourhood backend developer. 🕷️
 [![Axum](https://img.shields.io/badge/Axum-2d2d2d?style=flat-square&logoColor=white)](https://docs.rs/axum)
 [![Python](https://img.shields.io/badge/Python-3672A5?style=flat-square&logo=python&logoColor=FFD343)](https://www.python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-059488?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)](https://docs.pydantic.dev)
 
 **Async & Server Stack:**
 
