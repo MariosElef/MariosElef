@@ -7,6 +7,16 @@ Your friendly neighbourhood backend developer. 🕷️
 
 ## 🛠️ Tech Stack
 
+**Async & Server Stack:**
+
+[![Tokio](https://img.shields.io/badge/Tokio-1c1c1c?style=flat-square&logo=rust&logoColor=white)](https://tokio.rs)
+[![Hyper](https://img.shields.io/badge/Hyper-2d2d2d?style=flat-square&logo=rust&logoColor=white)](https://hyper.rs)
+[![Tower](https://img.shields.io/badge/Tower-3a3a3a?style=flat-square&logo=rust&logoColor=white)](https://docs.rs/tower)
+
+[![uvloop](https://img.shields.io/badge/uvloop-2E5A88?style=flat-square&logo=python&logoColor=white)](https://uvloop.readthedocs.io)
+[![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat-square&logo=python&logoColor=white)](https://www.uvicorn.org)
+[![Starlette](https://img.shields.io/badge/Starlette-1E3A5F?style=flat-square&logo=python&logoColor=white)](https://www.starlette.io)
+
 **Backend:**
 
 [![Rust](https://img.shields.io/badge/Rust-1c1c1c?style=flat-square&logo=rust&logoColor=e07b39)](https://www.rust-lang.org)
