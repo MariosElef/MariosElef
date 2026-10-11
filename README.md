@@ -67,13 +67,14 @@ Your friendly neighbourhood backend developer. 🕷️
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://docs.github.com)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://docs.gitlab.com)
+[![Infisical](https://img.shields.io/badge/Infisical-0E0E0E?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAPBAMAAAB3rtAkAAAAGFBMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8AAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FkTvUTAAAACHRSTlOdNVL5AATPbYUznBwAAAD%2FSURBVHjaBcFNSsNAGAbgd%2BYL2go1MwWToqZE66JULKGIgqsScCO48wIewZN4Efe6EtGNFNGkCOrC1r9FRWomlWIGMsbnYbtYvzJTv4Cgk%2BB%2BH9TpKfC5h6aeuoBT%2FyK3RDfjBZvbT2rjdC9%2BpK0kDv3t19EMs8qLZhJyz3SlfYtKjOdUWlGfWstItIyk%2BGvYqtxSxM%2BaGbSjMfEV9E%2FGcQSgqEZmRQFwwXEMgH0HNBQAPsGDQwbYMVBJBYRjuOgrKcd%2Bofgdk4U3y9%2FzIFEdhGtoFAldtMnRb72XX0vNBwOvjtE1O7j0ABp003w1AtoftFTbGZqQZajm57VNVfoHHJRfZ9JLdf4AAAAASUVORK5CYII%3D)](https://infisical.com/docs)
 
 **CI/CD & GitOps:**
 
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://docs.github.com/actions)
 [![Argo Workflows](https://img.shields.io/badge/Argo_Workflows-EF7B4D?style=flat-square&logo=argo&logoColor=white)](https://argoproj.github.io/workflows)
 [![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)](https://argo-cd.readthedocs.io)
-[![Kargo](https://img.shields.io/badge/Kargo-1D3557?style=flat-square&logo=argo&logoColor=white)](https://docs.kargo.io)
+[![Kargo](https://img.shields.io/badge/Kargo-1D3557?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAWBAMAAAAhuOHBAAAAMFBMVEXmllUDAgD848bx0rOVXC8fCwJfDARRLRGaclDYtJJ3SidwXEtQMBetkHcsFAdoRyw8as%2FEAAAAEHRSTlP%2BBP7%2B%2BFcGn%2Fb%2B5vrr%2FfayarJdFAAAARRJREFUeNo9jbFLAnEYhp%2FvvMssyd8HYUtDnENQDVr%2FgIERFpGGQ1NoLf0BEY2NLYEgFG0FQdAUETS0ODSFg9DaQUG0FHIuIZx4DVc92%2FO%2BL7yiROwcV7lBIg2T74ttBtsWAE65QtUvdk9sAIK72dWp8Q87GheCiWIJu58XVNXAGHBesMuo6hCjR4XrB1hKo2mjlehrWcVyAgnn8ocAW44RZZBrkm8C9prBeeSfC6HT%2Bqr%2FadzQ6ny6C7%2BBrdb005WEjcj7VWvmrR52U42ozlo9V%2FWgncoCcCm1IFf6XlffA4hjtJc4a2Tm6wAjaE03veeMmwVIiuJPOhhfPFi5jyWIJyx6kt51Nm6HRYHT19je%2FksTSj8iekh%2FrXfNiAAAAABJRU5ErkJggg%3D%3D)](https://docs.kargo.io)
 [![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kustomize.io)
 
 ---
