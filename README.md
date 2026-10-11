@@ -7,6 +7,14 @@ Your friendly neighbourhood backend developer. 🕷️
 
 ## 🛠️ Tech Stack
 
+**Backend:**
+
+[![Rust](https://img.shields.io/badge/Rust-1c1c1c?style=flat-square&logo=rust&logoColor=e07b39)](https://www.rust-lang.org)
+[![Axum](https://img.shields.io/badge/Axum-2d2d2d?style=flat-square&logoColor=white)](https://docs.rs/axum)
+[![Python](https://img.shields.io/badge/Python-3672A5?style=flat-square&logo=python&logoColor=FFD343)](https://www.python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-059488?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)](https://docs.pydantic.dev)
+
 **Async & Server Stack:**
 
 [![Tokio](https://img.shields.io/badge/Tokio-1c1c1c?style=flat-square&logo=rust&logoColor=white)](https://tokio.rs)
@@ -16,13 +24,6 @@ Your friendly neighbourhood backend developer. 🕷️
 [![uvloop](https://img.shields.io/badge/uvloop-2E5A88?style=flat-square&logo=python&logoColor=white)](https://uvloop.readthedocs.io)
 [![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat-square&logo=python&logoColor=white)](https://www.uvicorn.org)
 [![Starlette](https://img.shields.io/badge/Starlette-1E3A5F?style=flat-square&logo=python&logoColor=white)](https://www.starlette.io)
-
-**Backend:**
-
-[![Rust](https://img.shields.io/badge/Rust-1c1c1c?style=flat-square&logo=rust&logoColor=e07b39)](https://www.rust-lang.org)
-[![Axum](https://img.shields.io/badge/Axum-2d2d2d?style=flat-square&logoColor=white)](https://docs.rs/axum)
-[![Python](https://img.shields.io/badge/Python-3672A5?style=flat-square&logo=python&logoColor=FFD343)](https://www.python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-059488?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 
 **Databases:**
 
@@ -39,9 +40,19 @@ Your friendly neighbourhood backend developer. 🕷️
 [![PyMongo](https://img.shields.io/badge/PyMongo-0B6E3A?style=flat-square&logo=mongodb&logoColor=white)](https://pymongo.readthedocs.io)
 [![redis-py](https://img.shields.io/badge/redis--py-8B1E1E?style=flat-square&logo=redis&logoColor=white)](https://redis.readthedocs.io)
 
+**Observability:**
+
+[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)](https://opentelemetry.io/docs)
+[![tracing](https://img.shields.io/badge/tracing-1c1c1c?style=flat-square&logo=rust&logoColor=white)](https://docs.rs/tracing)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/docs/grafana)
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/docs)
+[![Loki](https://img.shields.io/badge/Loki-2C3239?style=flat-square&logo=grafana&logoColor=F46800)](https://grafana.com/docs/loki)
+[![Tempo](https://img.shields.io/badge/Tempo-2C3239?style=flat-square&logo=grafana&logoColor=F46800)](https://grafana.com/docs/tempo)
+[![Alloy](https://img.shields.io/badge/Alloy-2C3239?style=flat-square&logo=grafana&logoColor=F46800)](https://grafana.com/docs/alloy)
+
 **Frontend** *(yes, JS lives here and only here)*:
 
-[![Nuxt](https://img.shields.io/badge/Nuxt-00C16A?style=flat-square&logo=nuxtdotjs&logoColor=002B18)](https://nuxt.com/docs)
+[![Nuxt](https://img.shields.io/badge/Nuxt-00C16A?style=flat-square&logo=nuxt&logoColor=002B18)](https://nuxt.com/docs)
 [![Vue](https://img.shields.io/badge/Vue.js-41B883?style=flat-square&logo=vuedotjs&logoColor=213547)](https://vuejs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -50,10 +61,21 @@ Your friendly neighbourhood backend developer. 🕷️
 
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docs.docker.com)
+[![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)](https://doc.traefik.io/traefik)
+[![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)](https://www.keycloak.org/documentation)
+[![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)](https://tailscale.com/kb)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://kernel.org)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://docs.github.com)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://docs.gitlab.com)
+
+**CI/CD & GitOps:**
+
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://docs.github.com/actions)
+[![Argo Workflows](https://img.shields.io/badge/Argo_Workflows-EF7B4D?style=flat-square&logo=argo&logoColor=white)](https://argoproj.github.io/workflows)
+[![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)](https://argo-cd.readthedocs.io)
+[![Kargo](https://img.shields.io/badge/Kargo-1D3557?style=flat-square&logoColor=white)](https://docs.kargo.io)
+[![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kustomize.io)
 
 ---
 
@@ -62,4 +84,5 @@ Your friendly neighbourhood backend developer. 🕷️
 - Backend-first mindset
 - Love working with Kubernetes and microservices to retain a clean, layered architecture
 - Passionate about performance, type safety, and clean architecture
+- Credential-less GitOps: merges trigger in-cluster builds via Argo, promoted with Kargo
 - Always learning, always building
