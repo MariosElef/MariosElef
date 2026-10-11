@@ -73,7 +73,7 @@ Your friendly neighbourhood backend developer. 🕷️
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://docs.github.com/actions)
 [![Argo Workflows](https://img.shields.io/badge/Argo_Workflows-EF7B4D?style=flat-square&logo=argo&logoColor=white)](https://argoproj.github.io/workflows)
 [![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)](https://argo-cd.readthedocs.io)
-[![Kargo](https://img.shields.io/badge/Kargo-1D3557?style=flat-square&logoColor=white)](https://docs.kargo.io)
+[![Kargo](https://img.shields.io/badge/Kargo-1D3557?style=flat-square&logo=argo&logoColor=white)](https://docs.kargo.io)
 [![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kustomize.io)
 
 ---
