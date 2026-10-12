@@ -68,6 +68,7 @@ Your friendly neighbourhood backend developer. 🕷️
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://docs.github.com)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://docs.gitlab.com)
 [![Infisical](https://img.shields.io/badge/Infisical-0E0E0E?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAPBAMAAAB3rtAkAAAAGFBMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8AAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FkTvUTAAAACHRSTlOdNVL5AATPbYUznBwAAAD%2FSURBVHjaBcFNSsNAGAbgd%2BYL2go1MwWToqZE66JULKGIgqsScCO48wIewZN4Efe6EtGNFNGkCOrC1r9FRWomlWIGMsbnYbtYvzJTv4Cgk%2BB%2BH9TpKfC5h6aeuoBT%2FyK3RDfjBZvbT2rjdC9%2BpK0kDv3t19EMs8qLZhJyz3SlfYtKjOdUWlGfWstItIyk%2BGvYqtxSxM%2BaGbSjMfEV9E%2FGcQSgqEZmRQFwwXEMgH0HNBQAPsGDQwbYMVBJBYRjuOgrKcd%2Bofgdk4U3y9%2FzIFEdhGtoFAldtMnRb72XX0vNBwOvjtE1O7j0ABp003w1AtoftFTbGZqQZajm57VNVfoHHJRfZ9JLdf4AAAAASUVORK5CYII%3D)](https://infisical.com/docs)
+[![Rundeck](https://img.shields.io/badge/Rundeck-F73F39?style=flat-square&logo=rundeck&logoColor=white)](https://docs.rundeck.com)
 
 **CI/CD & GitOps:**
 
