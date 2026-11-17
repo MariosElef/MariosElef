@@ -1,5 +1,5 @@
 <picture>
-  <source media="(max-width: 768px)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=MariosElef&layout=pie&langs_count=4&theme=tokyonight&hide_title=true&hide_border=true&bg_color=00000000&hide_progress=true" />
+  <source media="(max-width: 768px)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=MariosElef&layout=donut-vertical&langs_count=4&theme=tokyonight&hide_title=true&hide_border=true&bg_color=00000000&hide_progress=true" />
   <img align="right" width="350" src="https://github-stats-extended.vercel.app/api/top-langs?username=MariosElef&layout=compact&langs_count=4&theme=tokyonight" alt="Top languages" />
 </picture>
 
