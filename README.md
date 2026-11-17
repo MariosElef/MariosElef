@@ -7,11 +7,9 @@ Your friendly neighbourhood backend developer. 🕷️
 
 ## 🛠️ Tech Stack
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MariosElef&layout=compact&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=MariosElef&layout=compact&langs_count=4&theme=tokyonight)
+**Backend:**                                                                                                                              
 
-**Backend:**
-
-[![Rust](https://img.shields.io/badge/Rust-1c1c1c?style=flat-square&logo=rust&logoColor=e07b39)](https://www.rust-lang.org)
+[![Rust](https://img.shields.io/badge/Rust-1c1c1c?style=flat-square&logo=rust&logoColor=e07b39)](https://www.rust-lang.org)      
 [![Axum](https://img.shields.io/badge/Axum-2d2d2d?style=flat-square&logoColor=white)](https://docs.rs/axum)
 [![Python](https://img.shields.io/badge/Python-3672A5?style=flat-square&logo=python&logoColor=FFD343)](https://www.python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-059488?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
@@ -89,3 +87,6 @@ Your friendly neighbourhood backend developer. 🕷️
 - Passionate about performance, type safety, and clean architecture
 - Credential-less GitOps: merges trigger in-cluster builds via Argo, promoted with Kargo
 - Always learning, always building
+
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MariosElef&layout=compact&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=MariosElef&layout=compact&langs_count=4&theme=tokyonight)
