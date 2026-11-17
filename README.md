@@ -7,6 +7,8 @@ Your friendly neighbourhood backend developer. 🕷️
 
 ## 🛠️ Tech Stack
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MariosElef&layout=compact&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=MariosElef&layout=compact&langs_count=4&theme=tokyonight)
+
 **Backend:**
 
 [![Rust](https://img.shields.io/badge/Rust-1c1c1c?style=flat-square&logo=rust&logoColor=e07b39)](https://www.rust-lang.org)
