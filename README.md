@@ -1,4 +1,7 @@
-<img align="right" width="350" src="https://github-stats-extended.vercel.app/api/top-langs?username=MariosElef&layout=compact&langs_count=4&theme=tokyonight" alt="Top languages" />
+<picture>
+  <source media="(max-width: 768px)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=MariosElef&layout=pie&langs_count=4&theme=tokyonight&hide_border=true" />
+  <img align="right" width="40%" src="https://github-stats-extended.vercel.app/api/top-langs?username=MariosElef&layout=compact&langs_count=4&theme=tokyonight" alt="Top languages" />
+</picture>
 
 ### Hey, I'm Marios 👋
 Your friendly neighbourhood backend developer. 🕷️
