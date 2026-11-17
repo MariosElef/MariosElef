@@ -88,5 +88,6 @@ Your friendly neighbourhood backend developer. 🕷️
 - Credential-less GitOps: merges trigger in-cluster builds via Argo, promoted with Kargo
 - Always learning, always building
 
-  
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MariosElef&layout=compact&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=MariosElef&layout=compact&langs_count=4&theme=tokyonight)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=MariosElef&layout=compact&langs_count=4&theme=tokyonight" alt="Top languages" />
+</p>
