@@ -11,7 +11,7 @@ Your friendly neighbourhood backend developer. 🕷️
 
 **Backend:**                                                                                                                              
 
-[![Rust](https://img.shields.io/badge/Rust-1c1c1c?style=flat-square&logo=rust&logoColor=e07b39)](https://www.rust-lang.org)      
+[![Rust](https://img.shields.io/badge/Rust-1c1c1c?style=flat-square&logo=rust&logoColor=e07b39)](https://www.rust-lang.org)
 [![Axum](https://img.shields.io/badge/Axum-2d2d2d?style=flat-square&logoColor=white)](https://docs.rs/axum)
 [![Python](https://img.shields.io/badge/Python-3672A5?style=flat-square&logo=python&logoColor=FFD343)](https://www.python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-059488?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
