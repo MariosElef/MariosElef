@@ -1,7 +1,7 @@
 <img align="right" width="350" src="https://github-stats-extended.vercel.app/api/top-langs?username=MariosElef&layout=compact&langs_count=4&theme=tokyonight" alt="Top languages" />
 
-# Hey, I'm Marios 👋
-Your friendly neighbourhood backend developer. 🕷️  
+### Hey, I'm Marios 👋
+Your friendly neighbourhood backend developer. 🕷️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marios-eleftheriou-59b399339/)
 
