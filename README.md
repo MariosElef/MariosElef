@@ -1,3 +1,5 @@
+<img align="right" width="350" src="https://github-stats-extended.vercel.app/api/top-langs?username=MariosElef&layout=compact&langs_count=4&theme=tokyonight" alt="Top languages" />
+
 # Hey, I'm Marios 👋
 Your friendly neighbourhood backend developer. 🕷️  
 
@@ -87,7 +89,3 @@ Your friendly neighbourhood backend developer. 🕷️
 - Passionate about performance, type safety, and clean architecture
 - Credential-less GitOps: merges trigger in-cluster builds via Argo, promoted with Kargo
 - Always learning, always building
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=MariosElef&layout=compact&langs_count=4&theme=tokyonight" alt="Top languages" />
-</p>
